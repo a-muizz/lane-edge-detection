@@ -73,7 +73,7 @@ While Sobel filtering highlights all edges, isolating lane markings typically re
   https://www.h-brs.de/de/fpga-vision-lab
 
 - **YouTube Playlist** (Marco Winzker’s lab):  
-  https://www.youtube.com/watch?v=H4WishN64TA&list=PLGzeDuLmmxDq5ErLABOdJkdFO3imtwUqJ&index=6&ab_channel=MarcoWinzker%28Professor%29
+  https://www.youtube.com/watch?v=-H7moO09tCg&list=PLGzeDuLmmxDq5ErLABOdJkdFO3imtwUqJ&ab_channel=MarcoWinzker%28Professor%29
 
 - **Sobel operator** (Wikipedia):  
   https://en.wikipedia.org/wiki/Sobel_operator
